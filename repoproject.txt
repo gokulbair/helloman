@@ -1,3 +1,0 @@
-helloman docansible ansiblecon 
-push  docker1 docgit
-docgit repo helloman
