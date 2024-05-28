@@ -1,3 +1,0 @@
-docansible
-docker1
-helloman
